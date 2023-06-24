@@ -2,8 +2,8 @@
 session_start();
 
 // Variabelen instellen
-$naam = "John Doe";
-$email = "johndoe@example.com";
+$naam = "Lucas Zegger";
+$email = "Lucas@gmail.com";
 
 // Variabelen opslaan in de sessie
 $_SESSION['naam'] = $naam;
